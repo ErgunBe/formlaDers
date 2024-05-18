@@ -1,0 +1,16 @@
+C:\Users\VULKAN\Desktop\udemy\FormDers2\FormDers2\bin\Debug\net8.0-windows\FormDers2.exe
+C:\Users\VULKAN\Desktop\udemy\FormDers2\FormDers2\bin\Debug\net8.0-windows\FormDers2.deps.json
+C:\Users\VULKAN\Desktop\udemy\FormDers2\FormDers2\bin\Debug\net8.0-windows\FormDers2.runtimeconfig.json
+C:\Users\VULKAN\Desktop\udemy\FormDers2\FormDers2\bin\Debug\net8.0-windows\FormDers2.dll
+C:\Users\VULKAN\Desktop\udemy\FormDers2\FormDers2\bin\Debug\net8.0-windows\FormDers2.pdb
+C:\Users\VULKAN\Desktop\udemy\FormDers2\FormDers2\obj\Debug\net8.0-windows\FormDers2.Form1.resources
+C:\Users\VULKAN\Desktop\udemy\FormDers2\FormDers2\obj\Debug\net8.0-windows\FormDers2.csproj.GenerateResource.cache
+C:\Users\VULKAN\Desktop\udemy\FormDers2\FormDers2\obj\Debug\net8.0-windows\FormDers2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VULKAN\Desktop\udemy\FormDers2\FormDers2\obj\Debug\net8.0-windows\FormDers2.AssemblyInfoInputs.cache
+C:\Users\VULKAN\Desktop\udemy\FormDers2\FormDers2\obj\Debug\net8.0-windows\FormDers2.AssemblyInfo.cs
+C:\Users\VULKAN\Desktop\udemy\FormDers2\FormDers2\obj\Debug\net8.0-windows\FormDers2.csproj.CoreCompileInputs.cache
+C:\Users\VULKAN\Desktop\udemy\FormDers2\FormDers2\obj\Debug\net8.0-windows\FormDers2.dll
+C:\Users\VULKAN\Desktop\udemy\FormDers2\FormDers2\obj\Debug\net8.0-windows\refint\FormDers2.dll
+C:\Users\VULKAN\Desktop\udemy\FormDers2\FormDers2\obj\Debug\net8.0-windows\FormDers2.pdb
+C:\Users\VULKAN\Desktop\udemy\FormDers2\FormDers2\obj\Debug\net8.0-windows\FormDers2.genruntimeconfig.cache
+C:\Users\VULKAN\Desktop\udemy\FormDers2\FormDers2\obj\Debug\net8.0-windows\ref\FormDers2.dll
